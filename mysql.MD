@@ -1,8 +1,8 @@
 # MySQL
 
-Developer has chosen the database MySQL. Hence, we are trying to install it up and configure it.
+Since the Developer has chosen the database MySQL. we need to install and configure it in the server.
 
-**Versions of the DB Software you will get context from the developer, Meaning we need to check with developer.**
+**VWe as a devops engineer need to connect with developer to know the version of the software to instal in the server .**
 
 Install MySQL Server 8.0.x
 
