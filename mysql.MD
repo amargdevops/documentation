@@ -2,7 +2,7 @@
 
 Since the Developer has chosen the database MySQL. we need to install and configure it in the server.
 
-**VWe as a devops engineer need to connect with developer to know the version of the software to instal in the server .**
+**We as a devops engineer need to connect with developer to know the version of the software to instal in the server .**
 
 Install MySQL Server 8.0.x
 
