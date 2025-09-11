@@ -4,16 +4,6 @@ Developer has chosen the database MySQL. Hence, we are trying to install it up a
 
 **Versions of the DB Software you will get context from the developer, Meaning we need to check with developer.**
 
-<<<<<<< HEAD
-# Install MySQL on Amazon Linux 2023
-
-```bash
-sudo dnf install mysql-server -y
-
-#  Start MySQL Service
-systemctl enable mysqld
-systemctl start mysqld
-=======
 Install MySQL Server 8.0.x
 
 ```
@@ -68,4 +58,3 @@ You can get entries of a table using
 ```
 select * from <table_name>;
 ```
->>>>>>> 0e90849634aae903f295118c602d18e0c5740c1f
