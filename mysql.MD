@@ -6,3 +6,11 @@ Install MySQL Server 8.0.x
 
 ```bash
 dnf install mysql-server -y
+
+Start MySQL Service
+
+```bash
+systemctl enable mysqld
+
+```bash
+systemctl start mysqld
